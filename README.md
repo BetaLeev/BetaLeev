@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=BetaLeev&show_icons=true&title_color=6ddccf&icon_color=79ff97&text_color=c7ffd8&bg_color=161d6f&hide=["contribs"])
+
 <!--
 **BetaLeev/BetaLeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
